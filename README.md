@@ -1,7 +1,6 @@
 ## ETS_PBB-D_BookSport
 
-### Nama	: Ahmad Rafif Hikmatiar
-NRP	: 5025211247
+### Nama	: Ahmad Rafif Hikmatiar, NRP	: 5025211247
 Nama	: Faiz Haq Noviandra Ciptadi Putra
 NRP	: 5025211132
 
