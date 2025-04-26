@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pilih Olahraga"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/btnFutsal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Futsal" />
+
+    <Button
+        android:id="@+id/btnBadminton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Badminton"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/btnBasket"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Basket"
+        android:layout_marginTop="8dp" />
+
+</LinearLayout>
+

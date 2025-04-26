@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BookSport</string>
+
+    <string-array name="venue_array">
+        <item>Lapangan Futsal A</item>
+        <item>Lapangan Badminton B</item>
+        <item>Lapangan Basket C</item>
+    </string-array>
+
+    <string-array name="sport_array">
+        <item>Futsal</item>
+        <item>Badminton</item>
+        <item>Basket</item>
+    </string-array>
+</resources>
